@@ -1,2 +1,2 @@
 # Coursera_DS_Capstone_Project
-IBM Data science certificate - Capstone Project
+This repository contains the necessary code files and relevant documents for my Coursera data science capstone project.
